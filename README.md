@@ -1,2 +1,2 @@
-# mycartapp
-mycartapp
+# MyCart
+A Django E commerce website
